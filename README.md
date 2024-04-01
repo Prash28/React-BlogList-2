@@ -1,7 +1,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Prash28/CCBP-App-Store.git
+git clone https://github.com/Prash28/React-BlogList-2.git
 cd dynamic-landing-page-1
 ```
 
