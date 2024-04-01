@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/Prash28/React-BlogList-2.git
-cd dynamic-landing-page-1
+cd React-BlogList-2
 ```
 
 **Installation**
